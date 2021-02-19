@@ -1,2 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" time="0"/>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="1" tests="1" time="0.010672">
+    <testcase classname="" name="_2" time="0.010672">
+        <skipped><![CDATA[Given on the page...........................................................undefined
+]]></skipped>
+    </testcase>
+</testsuite>
